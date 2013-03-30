@@ -1,3 +1,6 @@
 class Cell
-  # To change this template use File | Settings | File Templates.
-end
+  attr_accessor :x,:y
+
+
+
+ end
